@@ -11,5 +11,9 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Toast.makeText(this,"welcome" ,Toast.LENGTH_LONG);
+        Toast.makeText(this,"to " ,Toast.LENGTH_LONG);
+        Toast.makeText(this,"git" ,Toast.LENGTH_LONG);
+        Toast.makeText(this,"hub" ,Toast.LENGTH_LONG);
+
     }
 }
